@@ -1,0 +1,10 @@
+.item{
+    text-transform: capitalize;
+    color: rgb(5, 4, 37);
+    
+}
+.num{
+    font-family: 'Gelasio', serif;
+    font-weight: bold;
+    padding-left: 8px;
+}
