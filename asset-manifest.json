@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/BurgerProjectReact/static/css/main.2d2e7bf0.chunk.css",
+    "main.css": "/BurgerProjectReact/static/css/main.c4b3a585.chunk.css",
     "main.js": "/BurgerProjectReact/static/js/main.0ae5070e.chunk.js",
     "main.js.map": "/BurgerProjectReact/static/js/main.0ae5070e.chunk.js.map",
     "runtime-main.js": "/BurgerProjectReact/static/js/runtime-main.c9f5a0a6.js",
@@ -8,16 +8,16 @@
     "static/js/2.350f273f.chunk.js": "/BurgerProjectReact/static/js/2.350f273f.chunk.js",
     "static/js/2.350f273f.chunk.js.map": "/BurgerProjectReact/static/js/2.350f273f.chunk.js.map",
     "index.html": "/BurgerProjectReact/index.html",
-    "precache-manifest.e6664fa446bd83da78f8a276cac99ed6.js": "/BurgerProjectReact/precache-manifest.e6664fa446bd83da78f8a276cac99ed6.js",
+    "precache-manifest.5f60c648b8c65e85d7a3def18fbc3d06.js": "/BurgerProjectReact/precache-manifest.5f60c648b8c65e85d7a3def18fbc3d06.js",
     "service-worker.js": "/BurgerProjectReact/service-worker.js",
-    "static/css/main.2d2e7bf0.chunk.css.map": "/BurgerProjectReact/static/css/main.2d2e7bf0.chunk.css.map",
+    "static/css/main.c4b3a585.chunk.css.map": "/BurgerProjectReact/static/css/main.c4b3a585.chunk.css.map",
     "static/js/2.350f273f.chunk.js.LICENSE": "/BurgerProjectReact/static/js/2.350f273f.chunk.js.LICENSE",
     "static/media/burgerLogo.png": "/BurgerProjectReact/static/media/burgerLogo.b8503d26.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c9f5a0a6.js",
     "static/js/2.350f273f.chunk.js",
-    "static/css/main.2d2e7bf0.chunk.css",
+    "static/css/main.c4b3a585.chunk.css",
     "static/js/main.0ae5070e.chunk.js"
   ]
 }
